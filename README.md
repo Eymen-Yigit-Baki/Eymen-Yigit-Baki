@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.slidesharecdn.com/ss_thumbnails/whatiscodingslideshare-180406204414-thumbnail.jpg?width=640&height=640&fit=bounds)
+[![MasterHead](https://image.slidesdocs.com/responsive-images/background/digital-business-blue-abstract-code-data-powerpoint-background_f9f5b2054f__960_540.jpg)
 <h1 align="center">Hi 👋, I'm Eymen Yiğit Baki</h1>
 <h3 align="center">A Technology Enthusiast From Turkey</h3>
 
