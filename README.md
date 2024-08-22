@@ -1,4 +1,4 @@
-[![MasterHead](https://e0.pxfuel.com/wallpapers/358/113/desktop-wallpaper-programming-background-dark-coding.jpg)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*HLGtY6O2vUHqIyEbWdmBgA.jpeg)
 <h1 align="center">Hi 👋, I'm Eymen Yiğit Baki</h1>
 <h3 align="center">A Technology Enthusiast From Turkey</h3>
 
