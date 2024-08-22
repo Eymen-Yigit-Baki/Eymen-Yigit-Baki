@@ -1,4 +1,4 @@
-[![MasterHead](https://image.slidesdocs.com/responsive-images/background/digital-business-blue-abstract-code-data-powerpoint-background_f9f5b2054f__960_540.jpg)
+[![MasterHead](https://e0.pxfuel.com/wallpapers/358/113/desktop-wallpaper-programming-background-dark-coding.jpg)
 <h1 align="center">Hi 👋, I'm Eymen Yiğit Baki</h1>
 <h3 align="center">A Technology Enthusiast From Turkey</h3>
 
