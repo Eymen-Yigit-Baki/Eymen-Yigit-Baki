@@ -24,3 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eymen-yigit-baki&show_icons=true&locale=en" alt="eymen-yigit-baki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eymen-yigit-baki&" alt="eymen-yigit-baki" /></p>
+
+
+
+![snake gif](https://github.com/Eymen-Yigit-Baki/Eymen-Yigit-Baki/blob/output/github-contribution-grid-snake.gif)
