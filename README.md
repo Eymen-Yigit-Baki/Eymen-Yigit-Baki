@@ -1,4 +1,4 @@
-[![MasterHead](https:https://media.slidesgo.com/storage/146825/conversions/0-programming-lesson-thumb.jpg)
+[![MasterHead](https://cdn.slidesharecdn.com/ss_thumbnails/whatiscodingslideshare-180406204414-thumbnail.jpg?width=640&height=640&fit=bounds)
 <h1 align="center">Hi 👋, I'm Eymen Yiğit Baki</h1>
 <h3 align="center">A Technology Enthusiast From Turkey</h3>
 
