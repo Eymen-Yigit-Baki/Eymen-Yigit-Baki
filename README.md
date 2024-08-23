@@ -14,15 +14,15 @@
 
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/GitHub Mascot Tekno.gif" alt="Coding" width=200 height=200 align="right">
 
-- 🔭 I’m currently working on **Python,Arduino**
+- 🔭 I’m currently working on: **Python,Arduino**
 
-- 🌱 I’m currently learning **I'm Taking Arduino And Web Design Course**
+- 🌱 I’m currently learning: **I'm Taking Arduino And Web Design Course**
 
-- 🤝 I’m looking for help with **Arduino Projects**
+- 🤝 I’m looking for help with: **Arduino Projects**
 
-- 💬 Ask me about **You Can Ask Me About The Basics Of Python**
+- 💬 Ask me about: **You Can Ask Me About The Basics Of Python**
 
-- 📫 How to reach me **eymenbaki831@gmail.com**
+- 📫 How to reach me: **eymenbaki831@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
