@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **eymenbaki831@gmail.com**
 
-<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
+<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/GitHub Mascot Tekno.gif" alt="Coding" width=200 height=200 align="right">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
